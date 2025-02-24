@@ -3,8 +3,13 @@ Web application developed for **'Halcon'**, a construction material distributor,
 
 ## Team Members
 AL03054347 - Daniel Kzrysztof Mansur Pedraza
+
 AL03036016 - Ana Lorena Juarez
+
 AL03045090 - Ricardo Antonio Gutierrez Lugo
+
 Al02912772 - Diego Merlo Santos
+
 Al03035969 - Samuel Aarón Flores Montemayor
+
 Al02913894 - Fernando Gorocica Bermúdez
