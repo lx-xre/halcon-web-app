@@ -13,3 +13,5 @@ Al02912772 - Diego Merlo Santos
 Al03035969 - Samuel Aarón Flores Montemayor
 
 Al02913894 - Fernando Gorocica Bermúdez
+
+Una aplicacion completa front end a backend hecha con next y reactivar para poder cumplir con los requerimientos pedidos.
